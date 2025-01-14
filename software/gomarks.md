@@ -10,5 +10,4 @@ platforms:
 tags:
   - Automation
   - Bookmarks and Link Sharing
-  - Pastebins
 demo_url: "https://gomarks.labo.ovh"
